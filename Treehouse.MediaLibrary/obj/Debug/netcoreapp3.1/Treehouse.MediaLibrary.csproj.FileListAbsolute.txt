@@ -1,0 +1,14 @@
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\bin\Debug\netcoreapp3.1\Treehouse.MediaLibrary.exe
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\bin\Debug\netcoreapp3.1\Treehouse.MediaLibrary.deps.json
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\bin\Debug\netcoreapp3.1\Treehouse.MediaLibrary.runtimeconfig.json
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\bin\Debug\netcoreapp3.1\Treehouse.MediaLibrary.runtimeconfig.dev.json
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\bin\Debug\netcoreapp3.1\Treehouse.MediaLibrary.dll
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\bin\Debug\netcoreapp3.1\Treehouse.MediaLibrary.pdb
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\obj\Debug\netcoreapp3.1\Treehouse.MediaLibrary.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\obj\Debug\netcoreapp3.1\Treehouse.MediaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\obj\Debug\netcoreapp3.1\Treehouse.MediaLibrary.AssemblyInfoInputs.cache
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\obj\Debug\netcoreapp3.1\Treehouse.MediaLibrary.AssemblyInfo.cs
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\obj\Debug\netcoreapp3.1\Treehouse.MediaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\obj\Debug\netcoreapp3.1\Treehouse.MediaLibrary.dll
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\obj\Debug\netcoreapp3.1\Treehouse.MediaLibrary.pdb
+C:\Users\Allen\Desktop\Treehouse\C#\Treehouse.MediaLibrary\Treehouse.MediaLibrary\obj\Debug\netcoreapp3.1\Treehouse.MediaLibrary.genruntimeconfig.cache
