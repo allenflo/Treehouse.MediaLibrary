@@ -6,7 +6,9 @@ namespace Treehouse.MediaLibrary
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var album = new Album();
+            var book = new Book();
+            var movie = new Movie();
         }
     }
 }
